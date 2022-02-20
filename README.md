@@ -1,3 +1,15 @@
+<br />
+<div align="center">
+  <a href="https://github.com/AstroLeapStudios/">
+    <img src="https://github.com/AstroLeapStudios/astroleapstudios.github.io/blob/main/Images/about.jpg?raw=true" alt="Logo" width="80" height="80">
+  </a>
+
+  <h1 align="center">AstroLeapStudios</h1>
+
+  <p align="center">
+    A great terminal that you can use for many different things!
+    <br />
+  </p></div>
 - Hi, I’m Cole Timlin / AstroLeapStudios
 - I am interested in Game Development and side projects such as GTA V mods or plugins for Unity
 - I am currently learning how to create my own plugins
