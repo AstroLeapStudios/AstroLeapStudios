@@ -10,7 +10,7 @@
     Here is a little about me!
     <br />
   </p></div>
-  <div align="center">
+  <div align="left">
 - Hi, I’m Cole Timlin / AstroLeapStudios<br/>
 - I am interested in Game Development and side projects such as GTA V mods or plugins for Unity<br/>
 - I am currently learning how to create my own plugins<br/>
