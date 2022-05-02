@@ -1,8 +1,5 @@
 <br />
 <div align="center">
-  <a href="https://github.com/ColeTimlin/">
-    <img src="https://github.com/ColeTimlin/coletimlin.github.io/blob/main/Images/about.jpg?raw=true" alt="Logo" width="80" height="80">
-  </a>
 
   <h1 align="center">Cole Timlin</h1>
 
@@ -18,4 +15,7 @@
 - To reach me, email astroleapstudios@gmail.com and/or DM Abstract#1014 on Discord.<br/>
 - For my portfolio, visit https://coletimlin.github.io<br/>
 </div>
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=xploree&count_private=true&show_icons=true&theme=dark" alt="Github Stats"/>
+</p>
 
