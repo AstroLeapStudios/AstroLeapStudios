@@ -16,6 +16,6 @@
 - For my portfolio, visit https://coletimlin.github.io<br/>
 </div>
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=xploree&count_private=true&show_icons=true&theme=dark" alt="Github Stats"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=coletimlin&count_private=true&show_icons=true&theme=dark" alt="Github Stats"/>
 </p>
 
